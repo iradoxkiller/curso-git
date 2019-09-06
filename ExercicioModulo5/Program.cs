@@ -48,6 +48,7 @@ namespace ExercicioModulo5
 
             Console.WriteLine("Ola mundo");
             Console.WriteLine("Bom dia");
+            Console.WriteLine("Como você esta hoje?");
 
         }
     }
